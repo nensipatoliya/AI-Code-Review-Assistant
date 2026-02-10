@@ -46,7 +46,7 @@ interactive code review web application.
 
 ### 1️⃣ Clone Repository
 
-    git clone 
+    git clone https://github.com/nensipatoliya/AI-Code-Review-Assistant.git
     cd project-folder
 
 ### 2️⃣ Install Dependencies
